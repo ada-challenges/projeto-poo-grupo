@@ -1,0 +1,39 @@
+{
+  "veiculos": [
+    {
+      "placa": "ABC4D27",
+      "alugado": false
+    },
+    {
+      "placa": "Coy4329",
+      "alugado": false
+    },
+    {
+      "placa": "ABD4I29",
+      "alugado": false,
+      "modelo": "Onix"
+    },
+    {
+      "placa": "COY4329",
+      "alugado": true,
+      "modelo": "Fox"
+    },
+    {
+      "placa": "2345234",
+      "alugado": false,
+      "modelo": "3254"
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Ed Carlos",
+      "cpf": "36946901827",
+      "tipoCarteira": "B",
+      "veiculoAlugado": {
+        "placa": "COY4329",
+        "alugado": true,
+        "modelo": "Fox"
+      }
+    }
+  ]
+}
